@@ -122,7 +122,7 @@ fprintf('Loading and Visualizing Data ...\n')
 % You will have X, y in your environment
 load('ex6data3.mat');
 
-Plot training data
+% Plot training data
 plotData(X, y);
 
 % fprintf('Program paused. Press enter to continue.\n');
